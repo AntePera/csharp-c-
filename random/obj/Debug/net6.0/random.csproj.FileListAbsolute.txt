@@ -1,0 +1,15 @@
+D:\VSC programi\c#\random\obj\Debug\net6.0\random.csproj.AssemblyReference.cache
+D:\VSC programi\c#\random\obj\Debug\net6.0\random.GeneratedMSBuildEditorConfig.editorconfig
+D:\VSC programi\c#\random\obj\Debug\net6.0\random.AssemblyInfoInputs.cache
+D:\VSC programi\c#\random\obj\Debug\net6.0\random.AssemblyInfo.cs
+D:\VSC programi\c#\random\obj\Debug\net6.0\random.csproj.CoreCompileInputs.cache
+D:\VSC programi\c#\random\bin\Debug\net6.0\random.exe
+D:\VSC programi\c#\random\bin\Debug\net6.0\random.deps.json
+D:\VSC programi\c#\random\bin\Debug\net6.0\random.runtimeconfig.json
+D:\VSC programi\c#\random\bin\Debug\net6.0\random.dll
+D:\VSC programi\c#\random\bin\Debug\net6.0\ref\random.dll
+D:\VSC programi\c#\random\bin\Debug\net6.0\random.pdb
+D:\VSC programi\c#\random\obj\Debug\net6.0\random.dll
+D:\VSC programi\c#\random\obj\Debug\net6.0\ref\random.dll
+D:\VSC programi\c#\random\obj\Debug\net6.0\random.pdb
+D:\VSC programi\c#\random\obj\Debug\net6.0\random.genruntimeconfig.cache
