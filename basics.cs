@@ -8,7 +8,6 @@ namespace firstConsoleProject
          public static void Main(string[] args)//method called main
 
          {
-            start:
             int n1,n2;
             n1=7;
             n2=3;
@@ -19,11 +18,9 @@ namespace firstConsoleProject
             {
                 Console.WriteLine("ggwp man you better not cheat");
             }
-
             else
             {
                 Console.WriteLine("hahah you suck try again");
-                goto start;
             }
          }
      }
