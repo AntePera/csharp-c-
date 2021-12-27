@@ -1,0 +1,15 @@
+D:\VSC programi\c#\Inheritance\bin\Debug\net6.0\Inheritance.exe
+D:\VSC programi\c#\Inheritance\bin\Debug\net6.0\Inheritance.deps.json
+D:\VSC programi\c#\Inheritance\bin\Debug\net6.0\Inheritance.runtimeconfig.json
+D:\VSC programi\c#\Inheritance\bin\Debug\net6.0\Inheritance.dll
+D:\VSC programi\c#\Inheritance\bin\Debug\net6.0\ref\Inheritance.dll
+D:\VSC programi\c#\Inheritance\bin\Debug\net6.0\Inheritance.pdb
+D:\VSC programi\c#\Inheritance\obj\Debug\net6.0\Inheritance.csproj.AssemblyReference.cache
+D:\VSC programi\c#\Inheritance\obj\Debug\net6.0\Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+D:\VSC programi\c#\Inheritance\obj\Debug\net6.0\Inheritance.AssemblyInfoInputs.cache
+D:\VSC programi\c#\Inheritance\obj\Debug\net6.0\Inheritance.AssemblyInfo.cs
+D:\VSC programi\c#\Inheritance\obj\Debug\net6.0\Inheritance.csproj.CoreCompileInputs.cache
+D:\VSC programi\c#\Inheritance\obj\Debug\net6.0\Inheritance.dll
+D:\VSC programi\c#\Inheritance\obj\Debug\net6.0\ref\Inheritance.dll
+D:\VSC programi\c#\Inheritance\obj\Debug\net6.0\Inheritance.pdb
+D:\VSC programi\c#\Inheritance\obj\Debug\net6.0\Inheritance.genruntimeconfig.cache

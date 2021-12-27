@@ -1,0 +1,15 @@
+D:\VSC programi\c#\arrays\bin\Debug\net6.0\arrays.exe
+D:\VSC programi\c#\arrays\bin\Debug\net6.0\arrays.deps.json
+D:\VSC programi\c#\arrays\bin\Debug\net6.0\arrays.runtimeconfig.json
+D:\VSC programi\c#\arrays\bin\Debug\net6.0\arrays.dll
+D:\VSC programi\c#\arrays\bin\Debug\net6.0\ref\arrays.dll
+D:\VSC programi\c#\arrays\bin\Debug\net6.0\arrays.pdb
+D:\VSC programi\c#\arrays\obj\Debug\net6.0\arrays.csproj.AssemblyReference.cache
+D:\VSC programi\c#\arrays\obj\Debug\net6.0\arrays.GeneratedMSBuildEditorConfig.editorconfig
+D:\VSC programi\c#\arrays\obj\Debug\net6.0\arrays.AssemblyInfoInputs.cache
+D:\VSC programi\c#\arrays\obj\Debug\net6.0\arrays.AssemblyInfo.cs
+D:\VSC programi\c#\arrays\obj\Debug\net6.0\arrays.csproj.CoreCompileInputs.cache
+D:\VSC programi\c#\arrays\obj\Debug\net6.0\arrays.dll
+D:\VSC programi\c#\arrays\obj\Debug\net6.0\ref\arrays.dll
+D:\VSC programi\c#\arrays\obj\Debug\net6.0\arrays.pdb
+D:\VSC programi\c#\arrays\obj\Debug\net6.0\arrays.genruntimeconfig.cache

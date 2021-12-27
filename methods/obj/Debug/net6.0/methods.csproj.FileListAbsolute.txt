@@ -1,0 +1,15 @@
+D:\VSC programi\c#\methods\bin\Debug\net6.0\methods.exe
+D:\VSC programi\c#\methods\bin\Debug\net6.0\methods.deps.json
+D:\VSC programi\c#\methods\bin\Debug\net6.0\methods.runtimeconfig.json
+D:\VSC programi\c#\methods\bin\Debug\net6.0\methods.dll
+D:\VSC programi\c#\methods\bin\Debug\net6.0\ref\methods.dll
+D:\VSC programi\c#\methods\bin\Debug\net6.0\methods.pdb
+D:\VSC programi\c#\methods\obj\Debug\net6.0\methods.csproj.AssemblyReference.cache
+D:\VSC programi\c#\methods\obj\Debug\net6.0\methods.GeneratedMSBuildEditorConfig.editorconfig
+D:\VSC programi\c#\methods\obj\Debug\net6.0\methods.AssemblyInfoInputs.cache
+D:\VSC programi\c#\methods\obj\Debug\net6.0\methods.AssemblyInfo.cs
+D:\VSC programi\c#\methods\obj\Debug\net6.0\methods.csproj.CoreCompileInputs.cache
+D:\VSC programi\c#\methods\obj\Debug\net6.0\methods.dll
+D:\VSC programi\c#\methods\obj\Debug\net6.0\ref\methods.dll
+D:\VSC programi\c#\methods\obj\Debug\net6.0\methods.pdb
+D:\VSC programi\c#\methods\obj\Debug\net6.0\methods.genruntimeconfig.cache
